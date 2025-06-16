@@ -16,11 +16,7 @@ export default function Navbar() {
           />
           <span className="brand-text">Alaa Mohra CRM</span>
         </Link>
-        <div className="nav-links">
-          <Link to="/" className="nav-link">
-            Dashboard
-          </Link>
-        </div>
+       
       </div>
     </nav>
   );
