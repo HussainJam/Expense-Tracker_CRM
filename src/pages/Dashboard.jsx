@@ -32,7 +32,7 @@ export default function Dashboard() {
   return (
     <div className="dashboard">
       <header className="dashboard-header">
-        <h1>Expense Tracker</h1>
+        <h2>Expense Tracker</h2>
         <button onClick={handleAddExpense} className="btn-add">
           Add New Expense
         </button>

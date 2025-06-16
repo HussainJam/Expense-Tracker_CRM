@@ -19,9 +19,12 @@
 }
 
 .logo {
-  height: 100px;
+  height: 70px;
   width: auto;
   margin-right: 10px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+
 }
 
 .brand-text {
